@@ -13,7 +13,7 @@ function nomePais() {
         
         O ${nomes} não apressa os nossos conceitos em sala de aula.<br><br>
         
-        O ${nomes} é um ótimo aluno, e vem se dedicado muito durante as aulas. O esforço é o caminho ideal para que ele se desenvolva na programação. Parabéns, ${nomes} continue assim!`;
+        O ${nomes} é um ótimo aluno, e vem se dedicando muito durante as aulas. O esforço é o caminho ideal para que ele se desenvolva na programação. Parabéns, ${nomes} continue assim!`;
         
         document.querySelector("#resposta").innerHTML = resposta;
     }
